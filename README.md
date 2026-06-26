@@ -11,6 +11,8 @@
 </a>
 <img src="https://img.shields.io/badge/Location-Chennai%2C%20India-2e9c4c?style=flat-square&logo=googlemaps&logoColor=white"/>
 
+<br/><br/>
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Java+Full+Stack+Developer+%7C+5%2B+Years;Spring+Boot+%2B+Microservices+%2B+Kafka;Cloud-Native+on+AWS+%26+Azure+%7C+AKS;Building+Scalable+Fintech+%26+Banking+Systems"/>
 
 </div>
@@ -28,7 +30,7 @@ public class Vishwa {
     private double experienceYears = 5.3;
 
     private String[] stack = {
-        "Java 8/11/17/21", "Spring Boot", "Microservices", "REST APIs",
+        "Java 8/11/17", "Spring Boot", "Microservices", "REST APIs",
         "React.js", "Angular", "Apache Kafka", "PostgreSQL", "Oracle",
         "Docker", "Kubernetes (AKS)", "Azure", "AWS (EC2, S3, Lambda, Cognito)"
     };
@@ -103,14 +105,14 @@ public class Vishwa {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vishwa-0206&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwa-0206&layout=compact&theme=tokyonight&hide_border=true" width="38%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=vishwa-mahadevan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwa-mahadevan&layout=compact&theme=tokyonight&hide_border=true" width="38%"/>
 
-<img src="https://streak-stats.demolab.com?user=vishwa-0206&theme=tokyonight&hide_border=true" width="49%"/>
+<img src="https://streak-stats.demolab.com?user=vishwa-mahadevan&theme=tokyonight&hide_border=true" width="49%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vishwa-0206&theme=tokyo-night&hide_border=true" width="98%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vishwa-mahadevan&theme=tokyo-night&hide_border=true" width="98%"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=vishwa-0206&theme=vue-dark&no-frame=true&no-bg=true&margin-w=15&row=1" width="98%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=vishwa-mahadevan&theme=vue-dark&no-frame=true&no-bg=true&margin-w=15&row=1" width="98%"/>
 
 </div>
 
