@@ -30,7 +30,7 @@ public class Vishwa {
     private double experienceYears = 5.3;
 
     private String[] stack = {
-        "Java 8/11/17", "Spring Boot", "Microservices", "REST APIs",
+        "Java 8/11/17/21", "Spring Boot", "Microservices", "REST APIs",
         "React.js", "Angular", "Apache Kafka", "PostgreSQL", "Oracle",
         "Docker", "Kubernetes (AKS)", "Azure", "AWS (EC2, S3, Lambda, Cognito)"
     };
